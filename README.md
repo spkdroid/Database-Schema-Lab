@@ -101,12 +101,3 @@ A multinational corporation needs an **HR & Payroll system** to manage employees
 - Consider **audit logging** and **data security**
 
 ---
-
-## How to Use
-1. Select a use case from the list.
-2. Analyze the requirements and constraints.
-3. Define the database schema.
-4. Choose the best database technology (SQL or NoSQL) and justify the decision.
-5. Optimize the database design for scalability and efficiency.
-
----
