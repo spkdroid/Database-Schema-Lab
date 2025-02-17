@@ -99,5 +99,3 @@ A multinational corporation needs an **HR & Payroll system** to manage employees
 - Define a **database schema** for payroll management
 - Pick an appropriate **database technology**
 - Consider **audit logging** and **data security**
-
----
